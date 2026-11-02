@@ -1,4 +1,4 @@
-/**
+https://github.com/Team-Ban/Goat-Bot-V2.git/**
  * @author Team-Ban
  * ! The source code is written by Team-Ban, please don't change the author's name everywhere. Thank you for using
  * ! Official source code: https://github.com/Team-Ban/Goat-Bot-V2
